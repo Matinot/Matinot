@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matinot
-- 👀 I’m a full stack web development.
+- 👀 I’m a full stack web developer.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning ReactJS and NodeJS.
 - 💞️ I’m looking a job of consultant IT.
